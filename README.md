@@ -1,7 +1,7 @@
 # JHack 2021
 
 ## What is JHack
-JHack is a Hackathon for students around the Asian-Pacific region. For more information, visit our website at [www.jhack.tech](https://www.jhack.tech)
+JHack is a Hackathon for students around the Asian-Pacific region. For more information, visit our website at [www.jhack.tech](https://www.jhack.tech) (domain expired)
 
 ## How to Run
 1. Install requirements with `pip install -r "requirements.txt"`. You should install them in a virtual environment.
